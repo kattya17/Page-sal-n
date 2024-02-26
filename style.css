@@ -1,0 +1,40 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fondo{
+    width: 100%;
+    height: 300px;
+    opacity: 80%;
+    border-radius: 2%;
+}
+
+#diferenciales_img{
+    height: 100%;
+    width: 100%;
+ 
+}
+.descripcion{
+    background-color: rgba(236, 214, 236, 0.631);
+    padding: 15px;
+    font-size:larger;
+}
+.diferenciales_1{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    margin: 20px;
+}
+.lista{
+    width:  50%;
+    margin: 20px;
+    flex-direction: column;
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-items: right;
+    flex-direction: row;
+    padding: 10px;
+
+}
